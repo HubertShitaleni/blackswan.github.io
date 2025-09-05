@@ -1,5 +1,3 @@
-[blackswan.html](https://github.com/user-attachments/files/22168746/blackswan.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
